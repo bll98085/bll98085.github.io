@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	〈Home〉的留言	</title>
-	<atom:link href="http://bll98085.github.io/home/feed/" rel="self" type="application/rss+xml" />
-	<link>http://bll98085.github.io</link>
+	<atom:link href="https://bll98085.github.io/bll/home/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bll98085.github.io/bll</link>
 	<description>全新的繁體中文 WordPress 網站</description>
 	<lastBuildDate>Sat, 05 Feb 2022 12:13:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
